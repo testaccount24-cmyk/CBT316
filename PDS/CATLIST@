@@ -1,0 +1,11 @@
+//*---------------------------------------------------------------*
+//*   NOTE FROM JIM MARSHALL - WAY BACK WHEN - 1991 OR BEFORE     *
+//*   NOTE: HAVE NEVER INSTALLED OR TRIED THIS CODE, SO           *
+//*         YOU ARE ON YOUR OWN. CAME FROM MIKE LOOS OF           *
+//*         DELUXE CHECK PRINTERS (I THINK). LET ME KNOW          *
+//*         IF IT DOES WORK.                                      *
+//*---------------------------------------------------------------*
+//*   NOTE FROM SAM GOLOB - 08/25/24                              *
+//*   WORKS FINE:   SAM GOLOB                 (Z/OS 2.5)          *
+//*   SEE MEMBERS:  CATLIST$ (FOR INSTALLATION)                   *
+//*                 CATLISTJ (FOR RUN JCL)                        *
